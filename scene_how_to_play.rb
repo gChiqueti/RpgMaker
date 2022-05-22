@@ -3,7 +3,7 @@
 # Free for commercial and non-commercial use / Livre para uso comercial e não-comercial
 # Credit not needed, but much appreciated / Não precisa dar créditos, mas se quiser pode =)
 # ------------------------------------------------
-# Insert this script above of others that change the title / Coloque esse script acima de outros que alteram a tela de título
+# Insert this script above others that change the title / Coloque esse script acima de outros que alteram a tela de título
 # ------------------------------------------------
 
 # Configurações
